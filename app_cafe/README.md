@@ -1,16 +1,7 @@
-# app_cafe
+# BlogCafe
 
-Es una aplicacion trabajada con Flutter utilizando un backend Facke.
+Es una aplicacion trabajada con Flutter utilizando un backend Fake.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La aplicacion movil "BlogCafe" esta desarrollada en el lenguaje de programacion Dart utilizando el SDK de Flutter, la aplicacion se construyo con el fin de registrar y ingresar un usuario para que pueda registrar, modificar y eliminar una receta, donde encontraremos dos pestañas: Mis recetas, donde van estar guardadas las recetas que ingreso el usuario y en Mis favoritos vamos a tener nuestras recetas favoritas.La aplicacion movil "BlogCafe" esta desarrollada en el lenguaje de programacion Dart utilizando el SDK de Flutter, la aplicacion se construyo con el fin de registrar y ingresar un usuario para que pueda registrar, modificar y eliminar una receta, donde encontraremos dos pestañas: Mis recetas, donde van estar guardadas las recetas que ingreso el usuario y en Mis favoritos vamos a tener nuestras recetas favori
+<img src="https://github.com/ivanleonc/blog_cafe/blob/main/img/flayer_blogcafe.png?raw=true" width="300" height="600"/>
+<img src="https://github.com/ivanleonc/blog_cafe/blob/main/img/flayer_blogcafe_fin.png?raw=true" width="300" height="600"/>
