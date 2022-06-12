@@ -7,3 +7,6 @@ void main() => runApp(MyApp());
 //Contraseña: adriana 
 
 //Bienvenido de nuevo IvanLeonC
+
+//Recuerda el "flutter pub get" por cambio de versiones.
+//Revisa el archivo .yaml
